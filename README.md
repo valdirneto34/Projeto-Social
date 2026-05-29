@@ -39,7 +39,7 @@ O projeto foi componentizado para facilitar a manutenção e organização do c�
 
 1. Clone este repositório para a sua máquina executando o comando abaixo no terminal:
    ```bash
-   git clone https://valdirneto34.github.io/Projeto-Social/
+   git clone https://github.com/valdirneto34/Projeto-Social/
    ```
 
 ---
